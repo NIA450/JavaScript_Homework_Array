@@ -12,9 +12,9 @@ xxxx
 xxxxx
 */
 
-// function superX() {
-//   for (let ww = "x"; ww.length < 21; ww += "x") {
-//     console.log(ww);
-//   }
-// }
-// superX();
+function superX() {
+  for (let ww = "x"; ww.length < 21; ww += "x") {
+    console.log(ww);
+  }
+}
+superX();
